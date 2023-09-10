@@ -9,6 +9,7 @@ Complete ready for trial project samples for CI-CD pipeline implementation.
 ## Nodejs+React application
 - # [Node WebPage](https://github.com/EmAdd9/Demo-webpage-NodeJs.git)
 - # [React-To-Do-App](https://github.com/EmAdd9/Demo-React-To-Do-App.git)
+- # [Fullstack-Banking-App](https://github.com/EmAdd9/fullstack-bank.git)
 
 ## Python & Flask application
 - # [Python-Demo-WebApp](https://github.com/EmAdd9/Python-Demo-WebApp.git)
